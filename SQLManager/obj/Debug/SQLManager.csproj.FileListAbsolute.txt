@@ -1,0 +1,12 @@
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\bin\Debug\SQLManager.exe.config
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\bin\Debug\SQLManager.exe
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\bin\Debug\SQLManager.pdb
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\obj\Debug\SQLManager.csproj.AssemblyReference.cache
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\obj\Debug\SQLManager.csproj.SuggestedBindingRedirects.cache
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\obj\Debug\SQLManager.LoginForm.resources
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\obj\Debug\SQLManager.Properties.Resources.resources
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\obj\Debug\SQLManager.csproj.GenerateResource.cache
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\obj\Debug\SQLManager.csproj.CoreCompileInputs.cache
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\obj\Debug\SQLManager.exe
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\obj\Debug\SQLManager.pdb
+D:\1PETAR FAKS\3.GODINA\Semestar 5\Pristup podacima iz programskog koda\Projekt\Petar_Harambaša_SQLManager\SQLManager\obj\Debug\SQLManager.SQLManager.resources
